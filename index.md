@@ -4,3 +4,6 @@ This is a meaningful commit message about the changes I've made to the files; wh
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
